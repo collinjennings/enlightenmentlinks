@@ -1,0 +1,83 @@
+author ; poem title ; book title ; date ; estc ; pages ; footnotes
+Samuel Cobb ; Poetae Britannici ; none ; 1700 ; Wing / C4773 ; ; no
+Elijah Fenton ; An Epistle to Mr. Southerne ; none ; 1711 ; T127757 ; 1-19 ; no 
+John Mawer ; The Progress of Language ; none ; 1726 ; N012039 ; 2-27 ; yes 
+Anon. ; Taste and Beauty, An Epistle to the Earl of Chesterfield ; none ; 1732 ; N013584 ; 4-1 ; no
+William Carteret ; The Progress of Petitioning: in Three Epistles to Mr. Pope ;  Miscellaneous Works in Verse and Prose ; 1738 ; T039438 ; 6-43 ; yes 
+Lord Landsdowne ; Progress of Beauty ; The genuine works in verse and prose, of the Right Honourable George Granville, Lord Lansdowne ; 1701 ; T092916 ; 50-63 ; yes
+Anne Finch ; Life's Progress ; Miscellany Poems, on Several Occasions ; 1713 ; T94539 ; 259-262 ; no 
+Thomas Tickell ; The Royal Progress ; The Poetical Works of Thomas Tickell; 1714 ; T139880 ; 31-37 ; no 
+Matthew Prior ; Alma, or the Progress of the Mind ; Poems on Several Occasions ; 1719 ; T042640 ; 231-276 ; no
+Jonathan Swift ; Phyllis, or the Progress of Love ; Miscellanies ; 1716 ; ; 267-271 ; no 
+J. D. Breval ; The Art of Dress ; none ; 1717 ; T022449 ; 2-26 ; yes
+Jonathan Swift ; Progress of Poetry ; Miscellanies ; 1720 ; T155089; 271-273 ; no 
+Jonathan Swift ; Progress of Beauty ; Miscellanies ; 1720 ; T155089; 273-277 ; no 
+Anon. ; Progress of Deformity ; Cythereia ; 1723 ; T131272 ; 105-111 ; yes
+George Berkeley ; Verses by the Author, on the Prospect of Planting Arts and Learning in America ; A Miscellany ; 1725 ; T039487 ; 186-187 ; no 
+Alexander Pope ; The Dunciad. An heroic poem. In three books. ; none ; 1728 ; T005543 ; 9-47 ; yes
+Alexander Pope ; The Dunciad, variorum. With the prolegomena of Scriblerus ; none ; 1729 ; T005551 ; 69-152 ; yes
+Alexander Pope ; The New Dunciad: as it was found in the Year 1741. ; ; 1742 ; T005554 ; 2-39 ; yes
+Alexander Pope ; The Dunciad, in four books. ; ; 1744 ; T005562 ; 55-252 ; yes
+Hugh Stanhope ; The Progress of Dulness. By An Eminent Hand. Which will serve as an explanation of the Dunciad ; none ; 1728 ; T078524 ; 1-8 ; yes
+Anon. ; The Progress of Patriotism. A Tale ; Craftsman V ; 1730 ; T124858 ; 43-52; no
+Aaron Hill ; The Progress of Wit: A Caveat for the use of an eminent writer ; none ; 1730 ; T140006 ; 15-31 ; no
+Jonathan Swift ; The Progress of Marriage ; The Works of Jonathan Swift, part 1 ; 1730 ; T052748 ; 218-223 ; no
+Judith Cowper Madan ; Progress of Poetry ; Grove ; 1731 ; ; 130 ; yes
+ ; Progress of Patriotism ; ; 1731 ; ; not found 
+ ; Progress of a Harlot ; ; 1731 ; ; not found 
+Matthew Pilkington ; The Progress of Musick in Ireland. To Mira ; Poems on Several Occasions ; 1731 ; T134719 ; 2-17 ; no 
+Lord George Lyttelton ; The Progress of Love ; Extracts from Lord Lyttelton's Poetical Works ; 1732 ; T079255 ; 2-12 ; no
+ ; Progress of Beauty ; ; 1732 ; ; not found 
+Anon. ; Harlot's Progress, or the Humours of Drury Lane ; none ; 1732 ; N049908 ; 5-64 ; no
+J. D. Breval ; Progress of a Rake ; ; 1732 ; ; not found
+John Arbuthnot? ; Origine of Sciences ; Miscellanies ; 1732 ; T100474 ; 220-229 ; prose
+Anon. ; Progress of Matrimony ; Palace Miscellany ; 1733 ; T094085 ; 23-58 ; no
+T. English ; Progress of Corruption or a Journey thro' Westminster ; ; 1734 ; not found ; 
+James De-La-Cour ; A Prospect of Poetry ; none ; 1733 ; T000477 ; 3-64 ; yes
+Somerville ; The Chace ; A Progress of Hunting ; not found ; 1735 ; ; 
+Richard Savage ; Progress of a Divine ; The Poetical Works of Richard Savage, vol. 2 ; 1735 ; T124915 ; 94-108 ; no  
+ ; Progress of Man ; Gentleman's Magazine, V ; 1735 ; not found ; 419-422
+James Thomson ; Liberty ; none ; 1735 ; T137444 ; 8-156 ; yes
+ Anon. ; The Beeriad, or Progress of Drink ; none ; 1736 ; N015574 ; 2-65 ; yes 
+J. Newman ; The Progress of Vice ; none ; 1738 ; T009729 ; 1-108 ; prose
+R. Glover ; London: or, the Progress of Commerce ; none ; 1739 ; T093714 ; 4-30 ; yes
+Thomas D'Urfey ; Progress of Honesty: or a view of the court and the city ; none ; 1739 ; T126790 ; 4-18 ; no
+Anon. ; The Progress of a Female Rake, An Epistle from Libertina to Sylvia ; The Curiosity: Or, Gentleman and Lady's Library ; 1739 ; T116638 ; 35-47 ; no
+ ; Admiral Haddeak: or, the Progress of Spain ; not found ; 1740 ; ; 
+Ashley Cowper ; Progress of Physic ; Poems and Translations ; 1743 ; N011806 ; 2-18 ; yes
+ ; Progress of Painting ; Gentleman's Magazine, XIII ; not found ; 100, 153
+ ; Progress of Charity ; Gentleman's Magazine, XIII ; not found ; 377
+William Collins ; Epistle to Hanmer ; Poems ; 1743 ; T127966 ; 71-75 ; yes
+William Collins ; Ode to Liberty ; Poems ; 1744 ; T127966 ; 23-29 ; yes
+William Collins ; Ode to Fear ; Poems ; 1744 ; T127966 ; 9-12 ; yes
+Anon. ; The Progress of Glory: an irregular ode, address'd to his majesty, on the happy suppression of the rebellion ; none ; 1746 ; N020441 ; 2-14 ; yes
+James Thomson ; A Progress of Arts and Industry (Canto II) ; Castle of Indolence ; 1748 ; T100046 ; 41-81 ; no 
+Eliza Haywood ; Life's Progress through the Passions ; none ; 1748 ; T070078 ; 4-231 ; prose
+Thomas Warton ; The Progress of Discontent ; The Poems on Various Subjects ; 1750 ; T127557 ; 183-190 ; no
+Lloyd ; The Progress of Envy, in imitation of Spenser ; none ; 1751 ; T004710 ; 2-16 ; no
+Thomas Hudson ; The Progress of Man, In Two Epistles to a Clergyman ; Poems on Several Occasions. In Two Parts ; 1752 ; T126610 ; 148-159 ; no
+Thomas Gray ; The Progress of Poesy: a Pindaric Ode ; Poems ; 1757 ; T127821 ; 16-23 ; no
+Anon. ; The Progress of Lying. A Satire ; none ; 1762 ; N012038 ; 5-20 ; no 
+Vansittart ; Pleasure of Poetry ; Dodsley's Poems, III ; 1763 ; T115891 ; 226-231 ; no
+Edward Rolle ; Power of Poetry ; Dodsley's Poems, III ; 1763 ; T115891 ; 231-233 ; no
+William Shenstone ; The Progress of Advice ; The Works in Verse and Prose of William Shenstone ; 1763 ; T161242 ; 190-190 ; no
+William Shenstone ; The Progress of Taste ; The Works in Verse and Prose of William Shenstone ; 1764 ; T161242 ; 233-253 ; no
+William Julius Mickle ; Sir Martyn: or, the Progress of Dissipation ; Poems, and a Tragedy; 1767 ; T042580 ; 23-93 ; no 
+T. P Christian ; The Progress of War: a Poem By an Officer ; none ; 1770 ; T112384 ; 2-33 ; no
+James Beattie ; The Minstrel: or, the Progress of Genius ; none ; 1771 ; T064232 ; 2-64 ; no
+Anon. ; Progress of Gallantry ; none ; 1773 ; T112286 ; 6-26 ; no
+William Richardson ; The Progress of Melancholy, A Vision ; Poems, chiefly rural ; 1774 ; T137014 ; 100-111 ; no
+Richard Graves ; The Progress of Gallantry, In Three Cantos ; Euphrosyne: Or, Amusements on the Road of Life ; 1776 ; T146430 ; 178-190 ; no
+William Hayley ; A Poetical Epistle to an Eminent Painter ; An Essay on Painting ; 1778 ; T090891 ; 4-96 ; no
+William Cowper ; Progress of Error ; ; 1782 ; T014895 ; 42-72 ; no
+Henry James Pye ; The Progress of Refinement ; none ; 1783 ; T131483 ; 4-104 ; no 
+Edward Jerningham ; The Rise and Progress of the Scandinavian Poetry, in Two Parts ; none ; 1784 ; T045112 ; 6-31 ; yes
+P. Freneau ; Progress of Balloons (American) ; ; 1784 ; not found ;
+William Cowper ; The Task (Book I - A Progress of Seats) ; none ; 1785 ; T014896 ; 2-41 ; no 
+Anon. ; The Progress of Fashion: Exhibiting a view of its influence in all the departments of life ; none ; 1786 ; T044564 ; 2-76 ; prose
+Seward ; Female Right to Literature ; Bell's Fugitive Poetry, VI ; 1789 ; not found ; 17-23
+Richard Payne Knight ; Progress of Civil Society ; ; 1780 ; not found ; 
+ ; Progress of Man ; Anti-Jacobin ; 1780 ; not found ;
+R. O. Cambridge ; Progress of Liberty ; ; 1790 ; not found ;
+John Bidlake ; The Progress of Poetry, Painting, and Music, A Poem ; Poems ; 1794 ; T139921 ; 2-49 ; no  
+W. Boscawen ; The Progress of Satire: an essay in verse ; none ; 1798 ; T125140 ; 2-28 ; yes
